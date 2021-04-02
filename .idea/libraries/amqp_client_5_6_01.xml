@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="amqp-client-5.6.01">
+    <CLASSES>
+      <root url="jar://D:/Gl3/Sem2/repartis/Tp1/amqp-client-5.6.0.jar!/" />
+      <root url="jar://D:/Gl3/Sem2/repartis/Tp1/rabbitmq-jms-1.11.1.jar!/" />
+      <root url="jar://D:/Gl3/Sem2/repartis/Tp1/slf4j-api-1.8.0-beta0.jar!/" />
+      <root url="jar://D:/Gl3/Sem2/repartis/Tp1/slf4j-nop-1.8.0-beta0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
